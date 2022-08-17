@@ -34,4 +34,6 @@ Confusion Matrix:
 
 
 Detected integer:
+
+
 ![image](https://user-images.githubusercontent.com/43900410/185148193-dacb06ef-1884-44fe-8c4e-6726c83e9527.png)
